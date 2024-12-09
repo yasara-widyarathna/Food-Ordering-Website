@@ -1,0 +1,22 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px 4%;
+}
+
+
+
+.navbar .profile{
+    width: 40px;
+}
+.foodie{
+    color: rgb(255, 123, 0);
+    font-size: 55px;
+   
+}
+.admin{
+    position: absolute;
+    margin-top: 62px;
+    color: #757575;
+}
